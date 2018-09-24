@@ -61,6 +61,6 @@ var prefix = "!";
 
 
 
-client.login("NDg3MTY5OTM2
-5MDAwOTYw.DnOadg.wUL_r7HpDUAAOF7xAFS5nkugZFM");
+
+
  
